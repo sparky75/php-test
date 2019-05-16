@@ -1,0 +1,11 @@
+{
+    "name": "skysports/php-oop-unit-testing-tech-test",
+    "require": {
+      "phpunit/phpunit": "^7"
+    },
+    "autoload": {
+        "psr-4": {
+            "SSDMTechTest\\": "src/"
+        }
+    }
+}
